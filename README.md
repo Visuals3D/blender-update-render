@@ -1,5 +1,5 @@
 # blender-update-render
-A pythonscript for blender to allow manipulating a scene and start a render via the shell and some commands
+A pythonscript for blender to allow manipulating a scene and start a render via the shell with some commands that can be added
 
 This allows to reposition and rotate the camera to a new location, change textures and colors of specific shaders to allow minimal customisation without having to open the blender UI for it. 
 
